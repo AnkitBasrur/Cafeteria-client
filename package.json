@@ -15,7 +15,6 @@
     "axios": "^0.21.1",
     "babel-loader": "^8.0.0",
     "dotenv": "^8.2.0",
-    "final-form-material-ui": "^0.3.0",
     "firebase": "^8.2.4",
     "mdbreact": "^4.6.1",
     "react": "^17.0.1",
